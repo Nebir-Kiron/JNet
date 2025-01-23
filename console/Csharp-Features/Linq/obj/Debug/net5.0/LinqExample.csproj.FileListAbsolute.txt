@@ -1,0 +1,16 @@
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Linq\bin\Debug\net5.0\LinqExample.exe
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Linq\bin\Debug\net5.0\LinqExample.deps.json
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Linq\bin\Debug\net5.0\LinqExample.runtimeconfig.json
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Linq\bin\Debug\net5.0\LinqExample.runtimeconfig.dev.json
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Linq\bin\Debug\net5.0\LinqExample.dll
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Linq\bin\Debug\net5.0\LinqExample.pdb
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Linq\obj\Debug\net5.0\LinqExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Linq\obj\Debug\net5.0\LinqExample.AssemblyInfoInputs.cache
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Linq\obj\Debug\net5.0\LinqExample.AssemblyInfo.cs
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Linq\obj\Debug\net5.0\LinqExample.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Linq\obj\Debug\net5.0\LinqExample.sourcelink.json
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Linq\obj\Debug\net5.0\LinqExample.dll
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Linq\obj\Debug\net5.0\refint\LinqExample.dll
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Linq\obj\Debug\net5.0\LinqExample.pdb
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Linq\obj\Debug\net5.0\LinqExample.genruntimeconfig.cache
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Linq\obj\Debug\net5.0\ref\LinqExample.dll

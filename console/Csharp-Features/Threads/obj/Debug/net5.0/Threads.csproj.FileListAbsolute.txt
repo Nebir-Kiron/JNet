@@ -1,0 +1,16 @@
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Threads\bin\Debug\net5.0\Threads.exe
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Threads\bin\Debug\net5.0\Threads.deps.json
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Threads\bin\Debug\net5.0\Threads.runtimeconfig.json
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Threads\bin\Debug\net5.0\Threads.runtimeconfig.dev.json
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Threads\bin\Debug\net5.0\Threads.dll
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Threads\bin\Debug\net5.0\Threads.pdb
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Threads\obj\Debug\net5.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Threads\obj\Debug\net5.0\Threads.AssemblyInfoInputs.cache
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Threads\obj\Debug\net5.0\Threads.AssemblyInfo.cs
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Threads\obj\Debug\net5.0\Threads.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Threads\obj\Debug\net5.0\Threads.sourcelink.json
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Threads\obj\Debug\net5.0\Threads.dll
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Threads\obj\Debug\net5.0\refint\Threads.dll
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Threads\obj\Debug\net5.0\Threads.pdb
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Threads\obj\Debug\net5.0\Threads.genruntimeconfig.cache
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Threads\obj\Debug\net5.0\ref\Threads.dll

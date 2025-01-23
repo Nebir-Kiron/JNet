@@ -1,0 +1,16 @@
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Events\bin\Debug\net5.0\Events.exe
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Events\bin\Debug\net5.0\Events.deps.json
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Events\bin\Debug\net5.0\Events.runtimeconfig.json
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Events\bin\Debug\net5.0\Events.runtimeconfig.dev.json
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Events\bin\Debug\net5.0\Events.dll
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Events\bin\Debug\net5.0\Events.pdb
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Events\obj\Debug\net5.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Events\obj\Debug\net5.0\Events.AssemblyInfoInputs.cache
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Events\obj\Debug\net5.0\Events.AssemblyInfo.cs
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Events\obj\Debug\net5.0\Events.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Events\obj\Debug\net5.0\Events.sourcelink.json
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Events\obj\Debug\net5.0\Events.dll
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Events\obj\Debug\net5.0\refint\Events.dll
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Events\obj\Debug\net5.0\Events.pdb
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Events\obj\Debug\net5.0\Events.genruntimeconfig.cache
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Events\obj\Debug\net5.0\ref\Events.dll

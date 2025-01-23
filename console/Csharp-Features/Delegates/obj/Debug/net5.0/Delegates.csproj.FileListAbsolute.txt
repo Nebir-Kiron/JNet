@@ -1,0 +1,16 @@
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Delegates\bin\Debug\net5.0\Delegates.exe
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Delegates\bin\Debug\net5.0\Delegates.deps.json
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.json
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.dev.json
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Delegates\bin\Debug\net5.0\Delegates.dll
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Delegates\bin\Debug\net5.0\Delegates.pdb
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Delegates\obj\Debug\net5.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfoInputs.cache
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfo.cs
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Delegates\obj\Debug\net5.0\Delegates.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Delegates\obj\Debug\net5.0\Delegates.sourcelink.json
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Delegates\obj\Debug\net5.0\Delegates.dll
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Delegates\obj\Debug\net5.0\refint\Delegates.dll
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Delegates\obj\Debug\net5.0\Delegates.pdb
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Delegates\obj\Debug\net5.0\Delegates.genruntimeconfig.cache
+E:\Practice\.Net\Jalal\DS-net\console\Csharp-Features\Delegates\obj\Debug\net5.0\ref\Delegates.dll
